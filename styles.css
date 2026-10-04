@@ -217,7 +217,7 @@ body {
 .hero-buttons {
   position: absolute;
   left: 12%;
-  bottom: 30%;
+  bottom: 33%;
   z-index: 2;
 
   display: flex;
@@ -971,7 +971,7 @@ button:focus-visible {
 
   .hero-buttons {
     left: 50%;
-    bottom: 23%;
+    bottom: 20%;
     transform: translateX(-50%);
 
     flex-direction: column;
