@@ -219,7 +219,6 @@ body {
   left: 12%;
   bottom: 33%;
   z-index: 2;
-
   display: flex;
   gap: 2em;
 
@@ -966,7 +965,7 @@ button:focus-visible {
   /* Hero (mobile image, 4 / 5) */
 
   .hero {
-    aspect-ratio: 4 / 5;
+    aspect-ratio: 3 / 4;
   }
 
   .hero-buttons {
